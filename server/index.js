@@ -10,4 +10,4 @@ app.get('/map', (req, res) => {
 	res.send({ hit: 'map'});
 })
 
-app.listen(5000);
+app.listen(8080);
