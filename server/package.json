@@ -1,7 +1,7 @@
 {
   "name": "spot",
   "version": "1.0.0",
-  "description": "",
+  "description": "test and try node + express",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -12,9 +12,10 @@
     "url": "git+https://github.com/zijianjoy/Spot.git"
   },
   "engines": {
-    "node" : ">=8.9.0"
+    "node": "8.9.4",
+    "npm": "5.6.0"
   },
-  "author" : "James Liu",
+  "author": "James Liu",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zijianjoy/Spot/issues"
