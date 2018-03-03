@@ -13,8 +13,8 @@
   },
   "engines": {
     "node" : ">=8.9.0"
-  }
-  "author": "James Liu",
+  },
+  "author" : "James Liu",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zijianjoy/Spot/issues"
